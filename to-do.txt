@@ -3,3 +3,4 @@
    - gallons to liters
    - hours to minutes
    - feet to inches
+   - furlongs to nanometers
